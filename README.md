@@ -12,6 +12,6 @@ en este proyecto utilizamos el editor de *codigo visual estudio code* y los leng
 </ol>
 
 ****vista previa****
-![image](https://github.com/citlaly03/Hello-forest/assets/151808140/f71da2e6-51a5-4b98-b0e5-fdb3c2eafc52)
+![image](https://github.com/citlaly03/Hello-forest/assets/151808140/525b873c-94c0-4b1e-9853-284704fbd3e0)
 
 
